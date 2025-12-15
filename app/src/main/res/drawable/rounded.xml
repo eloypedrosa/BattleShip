@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="20dp"/> <!-- Cambia el 20dp al radio que quieras -->
+    <solid android:color="@android:color/transparent"/> <!-- Necesario para que clip funcione -->
+</shape>
